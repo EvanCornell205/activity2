@@ -1,7 +1,7 @@
 require_relative 'student'
 
 # Create a Student instance
-student = Student.new("Baha", "Amayreh", "amayreh.1@osu.edu", "6412339999", "842963", "Computer Science")
+student = Student.new("Evan", "Cornell", "conrellfejhwfjh.1@osu.edu", "9923399999", "842963", "Computer Science")
 
 # Add 4 posts
 student.add_post("Student post 1")
