@@ -3,7 +3,6 @@ require 'date'
 class Post
   attr_reader :id, :date, :content
   
-  # Class variable to track the next post ID
   @@next_id = 1
   
   def initialize(content)
